@@ -1,0 +1,2 @@
+// Typescript
+alert('Hello World!');
